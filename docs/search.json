@@ -5,5 +5,26 @@
     "title": "demosite",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "favourites.html",
+    "href": "favourites.html",
+    "title": "Favourites",
+    "section": "",
+    "text": "Oh my god.\nNo."
+  },
+  {
+    "objectID": "favourites.html#favourite-dogs",
+    "href": "favourites.html#favourite-dogs",
+    "title": "Favourites",
+    "section": "",
+    "text": "Oh my god.\nNo."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   }
 ]
