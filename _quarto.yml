@@ -3,15 +3,25 @@ project:
   output-dir: docs
 
 website:
-  title: "demosite"
+  title: Andrey Davydov
+  search: false
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
-      - favourites.qmd
+      - href: cv_davydov.qmd
+        text: CV
+      - href: current.qmd
+        text: Research
+      - href: teach.qmd
+        text: Teaching
+      - href: contact.qmd
+        text: Contact
+      
+    collapse: true
 format:
   html:
-    theme: cosmo
+    theme: yoti.scss
     css: styles.css
     toc: true
 

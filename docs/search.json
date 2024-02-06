@@ -2,23 +2,23 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "demosite",
+    "title": "Andrey Davydov",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Welcome! I am a Ph.D. Candidate in Political Science at McGill University.\nMy dissertation, x. Broadly, I am working on ethnic nationalism, the radical right, the centre-right, and white identity with a regional focus on Western and Eastern Europe, particularly Russia and Ukraine.\nBefore coming to McGill and turning into a political scientist, I worked at the Department of Comparative Literatures and Cultures at Lomonosov Moscow State University. My previous research focused on American and British racial theories in the interwar period. I hold an undergraduate degree in Western European Studies."
   },
   {
     "objectID": "favourites.html",
     "href": "favourites.html",
     "title": "Favourites",
     "section": "",
-    "text": "Oh my god.\nNo."
+    "text": "Oh my god.\nNo.\nYes."
   },
   {
     "objectID": "favourites.html#favourite-dogs",
     "href": "favourites.html#favourite-dogs",
     "title": "Favourites",
     "section": "",
-    "text": "Oh my god.\nNo."
+    "text": "Oh my god.\nNo.\nYes."
   },
   {
     "objectID": "about.html",
@@ -26,5 +26,33 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Andrey Davydov",
+    "section": "Education",
+    "text": "Education\nMcGill University - PhD in Political Science Lomonosov Moscow State University - Specialist in Western European Studies"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Andrey Davydov",
+    "section": "Experience",
+    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018"
+  },
+  {
+    "objectID": "index.html#interests",
+    "href": "index.html#interests",
+    "title": "Andrey Davydov",
+    "section": "Interests",
+    "text": "Interests"
+  },
+  {
+    "objectID": "index.html#field",
+    "href": "index.html#field",
+    "title": "Andrey Davydov",
+    "section": "Field",
+    "text": "Field"
   }
 ]

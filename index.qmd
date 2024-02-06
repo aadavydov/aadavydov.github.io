@@ -1,11 +1,13 @@
 ---
-title: "demosite"
+about:
+
+  template: trestles
+  image: goth.png
+  image-shape: round
 ---
 
-This is a Quarto website.
+Welcome! I am a Ph.D. Candidate in Political Science at McGill University.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+My dissertation, x. Broadly, I am working on ethnic nationalism, the radical right, the centre-right, and white identity with a regional focus on Western and Eastern Europe, particularly Russia and Ukraine.
 
-```{r}
-1 + 1
-```
+Before coming to [McGill](yarrr) and turning into a political scientist, I worked at the Department of Comparative Literatures and Cultures at Lomonosov Moscow State University. My previous research focused on American and British racial theories in the interwar period. I hold an undergraduate degree in Western European Studies.
