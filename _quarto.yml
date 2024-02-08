@@ -7,23 +7,25 @@ website:
   search: false
   navbar:
     right:
-      - href: index.qmd
-        text: Home
       - href: cv_davydov.qmd
         text: CV
-      - href: current.qmd
+      - href: research.qmd
         text: Research
       - href: teach.qmd
         text: Teaching
       - href: contact.qmd
         text: Contact
-      
+
     collapse: true
 format:
   html:
     theme: yoti.scss
     css: styles.css
     toc: true
+    
+styles:
+  .navbar a.active:
+    color: #000000
 
 editor: visual
 

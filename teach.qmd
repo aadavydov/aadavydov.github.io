@@ -1,3 +1,74 @@
 ---
-title: "teaching"
+title: "Teaching"
 ---
+
+In Political Science:
+
+<details open style="width: 150%;">
+
+<summary>Lecturer at McGill University (2023-2024)</summary>
+
+*Designed courses and taught them to undergraduate students.*
+
+```         
+-   POLI 339 Nationalism, Ethnicity and the Radical Right in Europe (Comparative/Developed)
+-   POLI 431 Nations and States/Developed World
+```
+
+</details>
+
+<details open style="width: 150%;">
+
+<summary>Teaching Assistant at McGill University (2018-2023)</summary>
+
+*Assisted faculty at the Department of Political Science.*
+
+```         
+-   POLI 212 Government and Politics/Developed World
+-   POLI 357 Politics: Contemporary Europe
+-   POLI 329 Russian and Soviet Politics
+-   POLI 339 Comparative Immigration Politics (Comparative/Developed)
+-   POLI 442 International Relations of Ethnic Conflict
+-   POLI 423 Politics of Ethno-Nationalism
+```
+
+</details>
+
+------------------------------------------------------------------------
+
+Outside Political Science (click to view):
+
+<details style="width: 150%;">
+
+<summary>Lecturer at Lomonosov Moscow State University (2012-2017)</summary>
+
+*Designed courses and taught them.*
+
+```         
+-   Race in Early 20th-Century American Culture
+-   History of American Literature
+-   History of American and British Literature (Early 20th Cent.)
+-   History of Western European Literature (Early 19th Cent., Late 19th Cent., Early 20th Cent.)
+-   Western European Cultural History (Early 20th Cent.)
+```
+
+</details>
+
+<details style="width: 150%;">
+
+<summary>Lecturer at Knowledge Exchange Institute (2013-2017)</summary>
+
+*Designed courses and taught them to American undergraduate and graduate exchange students at Lomonosov MSU.*
+
+```         
+-   History of Russian Literature
+-   Russian Cultural History
+```
+
+</details>
+
+<footer>
+
+<p>© Andrey Davydov 2024</p>
+
+</footer>
