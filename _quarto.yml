@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: Andrey Davydov
+  title: "Andrey Davydov" 
   search: false
   navbar:
     right:
@@ -20,12 +20,11 @@ website:
 format:
   html:
     theme: yoti.scss
-    css: styles.css
     toc: true
     
 styles:
   .navbar a.active:
-    color: #000000
+    color: #fff
 
 editor: visual
 

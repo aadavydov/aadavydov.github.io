@@ -1,3 +1,6 @@
 ---
 title: "Contact"
+page-layout: full
 ---
+
+tbd

@@ -1,7 +1,28 @@
 ---
 title: "Research"
+page-layout: full
+page-content: pandoc
 ---
 
+Page that describes "research projects"
+
+Followed by a list of publications.
+
+Publications: tbd
+
+::: columns
+::: {.column width="\"50%"}
+stuff 1 stuff 2 stuff 3
+
+stuff 1 stuff 2 stuff 3
+:::
+
+::: {.column width="\"50%"}
+stuff 5 stuff 2 stuff 34
+:::
+:::
+
+```{=tex}
 \begin{thebibliography}{9}
 \bibitem{davydov2021}
 Davydov, A. \textit{Radical Right Ideologies and Foreign Policy Preference: Attitudes towards Russia, China, and the USA in EU Member States}. Montreal, Canada: Resau transatlantique sur l'Europe politique (RESTEP). (2021).
@@ -10,13 +31,9 @@ Davydov, A. \textit{Radical Right Ideologies and Foreign Policy Preference: Atti
 Davydov, A. Review of \textit{The Lands in Between: Russia vs. the West and the New Politics of Hybrid War}, by Mitchell A. Orenstein, \textit{Harvard Ukrainian Studies}, Vol. 36, No. 3-4 (2019): 517-520.
 
 \end{thebibliography}
-
-
-
-
-Publications:
+```
 Davydov, A. \textit {Radical Right Ideologies and Foreign Policy Preference: Attitudes towards Russia, China, and the USA in EU Member States}. Montreal, Canada: Resau transatlantique sur l'Europe politique (RESTEP). (2021).
-  
+
 Davydov, A. Review of \textit{The Lands in Between: Russia vs. the West and the New Politics of Hybrid War}, by Mitchell A. Orenstein, \textit{Harvard Ukrainian Studies}, Vol. 36, No. 3-4 (2019): 517-520.
 
 Davydov, A. "Nativism versus Right-Wing Transnationalism in American Racial Theories, 1914-1924," \textit{MSU Bulletin. Series 19: Linguistics and Cross-Cultural Communication}, No. 4 (2017): 146-153.
