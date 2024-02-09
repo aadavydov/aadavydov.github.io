@@ -40,7 +40,7 @@ $danger:        $red !default;
 $light:         $gray-200 !default;
 $dark:          $gray-800 !default;
 
-$min-contrast-ratio:   1.9 !default;
+$min-contrast-ratio:   0.1 !default;
 
 // Colors
 
@@ -51,8 +51,6 @@ $body-bg:       $lbeige !default;
 $border-radius:               0 !default;
 $border-radius-lg:            0 !default;
 $border-radius-sm:            0 !default;
-
-
 
 // Fonts
 
@@ -102,9 +100,9 @@ a:hover {
 }
 
 /* Adjust layout for smaller screens */
-@media (max-width: 768px) {
+@media (max-width: 500px) {
     .navbar-nav {
-        flex-direction: column; /* Display items vertically */
+        flex-direction: row; /* Display items vertically */
     }
     
     .nav-item {

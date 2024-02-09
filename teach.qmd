@@ -1,10 +1,11 @@
 ---
 title: "Teaching"
+page-layout: full
 ---
 
-In Political Science:
+**In Political Science**:
 
-<details open style="width: 150%;">
+<details open style="width: 100%;">
 
 <summary>Lecturer at McGill University (2023-2024)</summary>
 
@@ -17,11 +18,11 @@ In Political Science:
 
 </details>
 
-<details open style="width: 150%;">
+<details open style="width: 100%;">
 
 <summary>Teaching Assistant at McGill University (2018-2023)</summary>
 
-*Assisted faculty at the Department of Political Science.*
+*Assisted faculty at the Department of Political Science by conducting conferences (seminars) and grading undergraduates.*
 
 ```         
 -   POLI 212 Government and Politics/Developed World
@@ -36,25 +37,27 @@ In Political Science:
 
 ------------------------------------------------------------------------
 
-Outside Political Science (click to view):
+**Outside Political Science** (click to view):
 
-<details style="width: 150%;">
+<details style="width: 100%;">
 
 <summary>Lecturer at Lomonosov Moscow State University (2012-2017)</summary>
 
-*Designed courses and taught them.*
+*Designed courses and taught them to undergraduate and graduate students.*
 
 ```         
 -   Race in Early 20th-Century American Culture
 -   History of American Literature
 -   History of American and British Literature (Early 20th Cent.)
--   History of Western European Literature (Early 19th Cent., Late 19th Cent., Early 20th Cent.)
+-   History of Western European Literature (Early 19th Cent.)
+-   History of Western European Literature (Late 19th Cent.)
+-   History of Western European Literature (Early 20th Cent.)
 -   Western European Cultural History (Early 20th Cent.)
 ```
 
 </details>
 
-<details style="width: 150%;">
+<details style="width: 100%;">
 
 <summary>Lecturer at Knowledge Exchange Institute (2013-2017)</summary>
 
