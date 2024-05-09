@@ -3,4 +3,8 @@ title: "Contact"
 page-layout: full
 ---
 
-tbd
+I can be contacted at [andrey.davydov\@mail.mcgill.ca](mailto:andrey.davydov@mail.mcgill.ca).
+
+<footer>
+<p>© Andrey Davydov 2024</p>
+</footer>

@@ -22,9 +22,5 @@ format:
     theme: yoti.scss
     toc: true
     
-styles:
-  .navbar a.active:
-    color: #fff
-
 editor: visual
 

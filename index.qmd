@@ -1,7 +1,7 @@
 ---
 about:
   template: trestles
-  image: goth.png
+  image: andreydavydov.png
   image-shape: round
 
 format: 
@@ -9,11 +9,11 @@ format:
     page-layout: article
 ---
 
-I am a Ph.D. Candidate in Political Science at [McGill University](https://www.mcgill.ca/politicalscience/grad/current-phd-students).
+I am a Ph.D. Candidate in Political Science at [McGill University](https://www.mcgill.ca/politicalscience/grad/current-phd-students). I am a comparativist specialising in Western and Eastern Europe, particularly Russia.
 
-My dissertation looks at the impact of the Russian regime's selective adoption of international radical right rhetoric on diverse ideological strands of the opposition. I use computational text analysis methods on transcripts generated from audio data such as propaganda programs, which I combine with a theoretical grounding in nationalism studies. Broadly, I am working on ethnic nationalism, the radical right, its tensions with the centre-right, and white identity politics. I am a comparativist specialising in Western and Eastern Europe, particularly Russia and Ukraine.
+My dissertation examines the impact of the Russian regime’s selective adoption of international radical right rhetoric on various ideological strands of the opposition. I employ computational text analysis methods on transcripts generated from audio data, such as propaganda programs and YouTube channels, combined with a theoretical grounding in nationalism studies. Broadly, my research explores ethnic nationalism, the radical right, its tensions with the center-right, and white identity politics.
 
-Before joining McGill and becoming a political scientist, I lectured on Western European and American cultural history and literature at the Department of Foreign Languages and Area Studies at Lomonosov Moscow State University. My previous research focused on American and British racial theories in the interwar period. I hold a degree in Western European Studies (UK and Germany).
+Before joining McGill and pursuing a career in political science, I lectured on Western European and American cultural history and literature at Lomonosov Moscow State University. My previous research focused on American and British racial theories during the interwar period. I hold a degree in Western European Studies, with a focus on the UK and Germany.
 
 <footer>
 

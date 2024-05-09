@@ -4,38 +4,48 @@ page-layout: full
 page-content: pandoc
 ---
 
-Page that describes "research projects"
+**Projects**
 
-Followed by a list of publications.
+<details open style="width: 100%; white-space: normal;">
 
-Publications: tbd
+<summary>“Ethnonationalism for Them, Multinationality for Us”: Domestic Adoption of International Radical Right Rhetoric by the Russian Regime</summary>
 
-::: columns
-::: {.column width="\"50%"}
-stuff 1 stuff 2 stuff 3
+<pre><code style="white-space: pre-wrap;">
+-   Explores how the Russian regime selectively adopts radical right rhetoric for foreign contexts while maintaining a moderate stance on ethnic diversity for domestic contexts.
 
-stuff 1 stuff 2 stuff 3
-:::
+-   Uses frequency and sentiment analysis of over 2,500 transcripts from major propaganda TV shows that were scraped for this project and are not available elsewhere.
+</code></pre>
 
-::: {.column width="\"50%"}
-stuff 5 stuff 2 stuff 34
-:::
-:::
+</details>
 
-```{=tex}
-\begin{thebibliography}{9}
-\bibitem{davydov2021}
-Davydov, A. \textit{Radical Right Ideologies and Foreign Policy Preference: Attitudes towards Russia, China, and the USA in EU Member States}. Montreal, Canada: Resau transatlantique sur l'Europe politique (RESTEP). (2021).
+<details open style="width: 100%;">
 
-\bibitem{davydov2019}
-Davydov, A. Review of \textit{The Lands in Between: Russia vs. the West and the New Politics of Hybrid War}, by Mitchell A. Orenstein, \textit{Harvard Ukrainian Studies}, Vol. 36, No. 3-4 (2019): 517-520.
+<summary>Does the Discrepant Use of International Radical Right Rhetoric by the Russian Regime Provoke or Pacify the Opposition?</summary>
 
-\end{thebibliography}
-```
-Davydov, A. \textit {Radical Right Ideologies and Foreign Policy Preference: Attitudes towards Russia, China, and the USA in EU Member States}. Montreal, Canada: Resau transatlantique sur l'Europe politique (RESTEP). (2021).
+<pre><code style="white-space: pre-wrap;">         
+-   Compares official rhetoric to the rhetoric of diverse ideological strands of the opposition, ranging from social liberals to anti-immigrant far-right to pro-empire right.
 
-Davydov, A. Review of \textit{The Lands in Between: Russia vs. the West and the New Politics of Hybrid War}, by Mitchell A. Orenstein, \textit{Harvard Ukrainian Studies}, Vol. 36, No. 3-4 (2019): 517-520.
+-   Assesses whether the discrepancy in the regime's rhetoric between foreign and domestic contexts provokes and splits the opposition.
 
-Davydov, A. "Nativism versus Right-Wing Transnationalism in American Racial Theories, 1914-1924," \textit{MSU Bulletin. Series 19: Linguistics and Cross-Cultural Communication}, No. 4 (2017): 146-153.
+-   Uses frequency and sentiment analysis of transcripts of opposition programs on Youtube and posts on telegram channels.
+</code></pre>
 
-Davydov, A. "Eastern European Immigrants in American Racial Theories, 1914-1924." \textit{MSU Bulletin. Series 19: Linguistics and Cross-Cultural Communication}, No. 2 (2016): 125-132.
+</details>
+
+**Peer-Reviewed Publications**
+
+Davydov, A. (2017). Nativism versus right-wing transnationalism in American racial theories, 1914-1924. *Moscow University Bulletin. Series 19. Linguistics and Cross-Cultural Communication*, 2017(4), 146-153.
+
+Davydov, A. (2016). Eastern European immigrants in American racial theories, 1914-1924. *Moscow University Bulletin. Series 19. Linguistics and Cross-Cultural Communication*, 2016(2), 125-132.
+
+**Other Publications**
+
+Davydov, A. (2021). Radical right ideologies and foreign policy preference: Attitudes towards Russia, China, and the USA in EU member states. Montreal, Canada: Resau transatlantique sur l'Europe politique (RESTEP).
+
+Davydov, A. (2019) "Review of *The Lands in Between: Russia vs. the West and the New Politics of Hybrid War*, by Mitchell A. Orenstein." *Harvard Ukrainian Studies* 36(3-4), 517-520.
+
+<footer>
+
+<p>© Andrey Davydov 2024</p>
+
+</footer>

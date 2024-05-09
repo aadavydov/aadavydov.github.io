@@ -3,7 +3,7 @@ title: "Teaching"
 page-layout: full
 ---
 
-**In Political Science**:
+**In Political Science**
 
 <details open style="width: 100%;">
 
@@ -37,13 +37,13 @@ page-layout: full
 
 ------------------------------------------------------------------------
 
-**Outside Political Science** (click to view):
+**Outside Political Science** (click to view)
 
 <details style="width: 100%;">
 
 <summary>Lecturer at Lomonosov Moscow State University (2012-2017)</summary>
 
-*Designed courses and taught them to undergraduate and graduate students.*
+*I designed courses and taught them to undergraduate and graduate students. The courses on American and British culture were taught in English, the rest in Russian.*
 
 ```         
 -   Race in Early 20th-Century American Culture
