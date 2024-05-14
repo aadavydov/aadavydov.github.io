@@ -10,6 +10,7 @@ page-content: pandoc
 
 <summary>“Ethnonationalism for Them, Multinationality for Us”: Domestic Adoption of International Radical Right Rhetoric by the Russian Regime</summary>
 
+
 -   Explores how the Russian regime selectively adopts radical right rhetoric for foreign contexts while maintaining a moderate stance on ethnic diversity for domestic contexts.
 
 -   Uses frequency and sentiment analysis of around 4000 hour-long transcripts from major propaganda TV shows that were scraped for this project and are not available elsewhere.
@@ -19,6 +20,7 @@ page-content: pandoc
 <details open style="width: 100%;">
 
 <summary>Does the Discrepant Use of International Radical Right Rhetoric by the Russian Regime Provoke or Pacify the Opposition?</summary>
+
 
 -   Compares official rhetoric to the rhetoric of diverse ideological strands of the opposition, ranging from social liberals to anti-immigrant far-right to pro-empire right.
 

@@ -11,8 +11,8 @@ page-layout: full
 
 *Designed courses and taught them to undergraduate students.*
 
--   POLI 339 Nationalism, Ethnicity and the Radical Right in Europe (Comparative/Developed) \[[Syllabus](POLI339_NatRRightEurope_syllabus.pdf)\]
--   POLI 431 Nations and States/Developed World \[[Syllabus](POLI431_NationsStates_syllabus.pdf)\]
+-   POLI 339 Nationalism, Ethnicity and the Radical Right in Europe \[[Syllabus](POLI339_NatRRightEurope_syllabus.pdf){target="_blank"}\]
+-   POLI 431 Nations and States/Developed World \[[Syllabus](POLI431_NationsStates_syllabus.pdf){target="_blank"}\]
 
 </details>
 
