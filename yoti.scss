@@ -88,6 +88,9 @@ a:hover {
   text-underline-offset: 2px;
   text-decoration-skip-ink: auto;
   text-decoration-skip-ink: none;
+  .bi:hover {
+  color: $blue; /* Change to your desired hover color */
+}
 }
 
 

@@ -13,6 +13,8 @@ website:
         text: Research
       - href: teach.qmd
         text: Teaching
+      - icon: envelope-at
+        href: mailto:andreydavydov@mail.mcgill.ca
 
     collapse: true
 format:
