@@ -11,6 +11,7 @@ page-layout: full
 
 *Designed courses and taught them to undergraduate students.*
 
+-   POLI 423 Politics of Ethno-Nationalism \[[Syllabus](POLI423_EthnoNationalism_syllabus.pdf){target="_blank"}\]
 -   POLI 339 Nationalism, Ethnicity and the Radical Right in Europe \[[Syllabus](POLI339_NatRRightEurope_syllabus.pdf){target="_blank"}\]
 -   POLI 431 Nations and States/Developed World \[[Syllabus](POLI431_NationsStates_syllabus.pdf){target="_blank"}\]
 
