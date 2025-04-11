@@ -9,11 +9,11 @@ format:
     page-layout: article
 ---
 
-I am a Ph.D. Candidate in Political Science at [McGill University](https://www.mcgill.ca/politicalscience/grad/current-phd-students). I am a comparativist specialising in Western and Eastern Europe, particularly Russia.
+I am a Ph.D. Candidate in Political Science at [McGill University](https://www.mcgill.ca/politicalscience/grad/current-phd-students), specialising in comparative politics with a focus on Eastern Europe, particularly Russia.
 
-My dissertation examines the impact of the Russian regime’s selective adoption of international radical right rhetoric on various ideological strands of the opposition. I apply computational text analysis methods to transcripts generated from audio data, such as propaganda programs and YouTube channels. I anchor these empirical approaches in a theoretical framework based on nationalism studies. Broadly, my research explores ethnic nationalism, the radical right, its tensions with the center-right, and white identity politics.
+My dissertation examines how the Kremlin's adoption of foreign radical right rhetoric impacts diverse ideological strands of the public. I apply computational text analysis methods to transcripts derived from audio sources, such as propaganda talk shows and YouTube channels. I situate these empirical findings within the theoretical framework of nationalism studies. Broadly, my research explores ethnic nationalism, the tensions between the radical right and centre-right, as well as white identity politics.
 
-Before joining McGill and pursuing political science, I lectured on Western European and American cultural history and literature at Lomonosov Moscow State University. My prior work investigated American and British racial theories during the interwar period. I hold a degree in Western European Studies, with a focus on the UK and Germany.
+Before joining McGill and pursuing political science, I lectured in Western European and American cultural history and literature at Lomonosov Moscow State University. My earlier work analysed American and British racial theories during the interwar period. I hold a degree in Western European Studies, with a concentration on the UK and Germany.
 
 You can contact me at [andrey.davydov\@mail.mcgill.ca](mailto:andrey.davydov@mail.mcgill.ca).
 
